@@ -1,5 +1,5 @@
 Employee Churn Prediction at Dunder Mifflin Paper Company
-Introduction
+Introduction:
 In this project, we aim to predict employee churn at the Dunder Mifflin Paper Company, a well-established paper company located in Scranton, Pennsylvania. The company is facing a challenge with a high turnover rate among its employees, and our goal is to understand the factors contributing to employee churn to improve satisfaction and retention.
 
 Dataset Features
